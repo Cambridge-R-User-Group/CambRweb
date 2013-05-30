@@ -1,1 +1,1 @@
-The (CambR)[http://www.cambr.org.uk/] web page
+The [CambR](http://www.cambr.org.uk/) web page
